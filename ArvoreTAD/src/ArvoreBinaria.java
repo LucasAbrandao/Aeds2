@@ -1,3 +1,5 @@
+
+
 public class ArvoreBinaria {
 
     private No raiz;
@@ -101,3 +103,5 @@ public class ArvoreBinaria {
         return p;
     }
 }
+
+
